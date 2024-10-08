@@ -2,7 +2,7 @@
 name= "Docker"
 image= "/images/platforms/docker.png"
 category= "Platforms"
-ring= "Adopt"
+ring= "Invest"
 type="post"
 layout="details"
 +++

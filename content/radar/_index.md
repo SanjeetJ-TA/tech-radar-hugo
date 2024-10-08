@@ -1,4 +1,4 @@
 +++
-title="Radar"
+title="DevOps Technical Radar"
 layout="radar"
 +++

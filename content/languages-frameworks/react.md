@@ -2,7 +2,7 @@
 name= "React"
 image= "/images/languages-frameworks/react.png"
 category= "Languages-Frameworks"
-ring= "Adopt"
+ring= "Invest"
 type="post"
 layout="details"
 +++

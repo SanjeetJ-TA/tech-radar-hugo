@@ -1,0 +1,3 @@
+baseURL="http://localhost:3113"
+languageCode = "en-us"
+title = "Tech radar"

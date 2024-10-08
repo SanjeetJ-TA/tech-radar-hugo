@@ -164,10 +164,10 @@
   background-color: #000000; }
 
 .bg-gradient-main-color {
-  background: #c42821;
-  background: -moz-linear-gradient(left, #c42821 0%, #e03249 100%);
-  background: -webkit-linear-gradient(left, #c42821 0%, #e03249 100%);
-  background: linear-gradient(to right, #c42821 0%, #e03249 100%);
+  background: #0f7445;
+  background: -moz-linear-gradient(left, #0f7445 0%, #139659 100%);
+  background: -webkit-linear-gradient(left, #0f7445 0%, #139659 100%);
+  background: linear-gradient(to right, #0f7445 0%, #139659 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$secondary-color', endColorstr='$main-color',GradientType=1 ); }
 
 .bg-gradient-yellow {

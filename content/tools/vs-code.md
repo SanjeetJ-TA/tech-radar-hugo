@@ -2,7 +2,7 @@
 name= "Visual Studio Code"
 image= "/images/tools/vs-code.png"
 category= "Tools"
-ring= "Adopt"
+ring= "Invest"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name= "Test Driven Development"
 image= "/images/libs/tdd.png"
 category= "Libs"
-ring= "Adopt"
+ring= "Invest"
 type="post"
 layout="details"
 +++

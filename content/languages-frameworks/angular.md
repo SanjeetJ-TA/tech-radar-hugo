@@ -2,7 +2,7 @@
 name= "Angular"
 image= "/images/languages-frameworks/angular.png"
 category= "Languages-Frameworks"
-ring= "Can Use"
+ring= "Tolerate"
 type="post"
 layout="details"
 +++

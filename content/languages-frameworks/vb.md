@@ -2,7 +2,7 @@
 name= "Visual Basic"
 image= "/images/languages-frameworks/vb.png"
 category= "Languages-Frameworks"
-ring= "Deprecated"
+ring= "Eliminate"
 type="post"
 layout="details"
 +++
