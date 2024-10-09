@@ -55,12 +55,12 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://sanjeetj-ta.github.io/tech-radar-hugo/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-
+  
   # Deployment job
   deploy:
     environment:
