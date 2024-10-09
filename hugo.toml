@@ -1,3 +1,4 @@
-baseURL="https://sanjeetj-ta.github.io/tech-radar-hugo"
+baseURL="https://sanjeetj-ta.github.io/tech-radar-hugo/"
 languageCode = "en-us"
 title = "Tech radar"
+relativeURLs = false
