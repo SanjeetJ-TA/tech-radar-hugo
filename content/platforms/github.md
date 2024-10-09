@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
-category= "Languages-Frameworks"
-ring= "Tolerate"
+name= "GitHub"
+image= "/images/platforms/github.png"
+category= "Platforms"
+ring= "Invest"
 type="post"
 layout="details"
 +++

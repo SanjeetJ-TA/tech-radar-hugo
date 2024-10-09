@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
+name= "Python"
+image= "/images/languages-frameworks/python.png"
 category= "Languages-Frameworks"
-ring= "Tolerate"
+ring= "Invest"
 type="post"
 layout="details"
 +++

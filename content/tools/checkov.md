@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
-category= "Languages-Frameworks"
-ring= "Tolerate"
+name= "Checkov"
+image= "/images/tools/checkov.png"
+category= "Tools"
+ring= "Invest"
 type="post"
 layout="details"
 +++

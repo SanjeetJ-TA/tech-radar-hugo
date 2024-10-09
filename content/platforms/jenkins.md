@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
-category= "Languages-Frameworks"
-ring= "Tolerate"
+name= "Jenkins"
+image= "/images/platforms/jenkins.png"
+category= "Platforms"
+ring= "Migrate"
 type="post"
 layout="details"
 +++

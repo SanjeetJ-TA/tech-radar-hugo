@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
+name= "CloudFormation"
+image= "/images/languages-frameworks/cloudformation.png"
 category= "Languages-Frameworks"
-ring= "Tolerate"
+ring= "Eliminate"
 type="post"
 layout="details"
 +++

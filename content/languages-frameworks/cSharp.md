@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
+name= "C# .Net"
+image= "/images/languages-frameworks/cSharp.png"
 category= "Languages-Frameworks"
-ring= "Tolerate"
+ring= "Migrate"
 type="post"
 layout="details"
 +++

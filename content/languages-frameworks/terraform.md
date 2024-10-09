@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
+name= "Terraform"
+image= "/images/languages-frameworks/terraform.png"
 category= "Languages-Frameworks"
-ring= "Tolerate"
+ring= "Invest"
 type="post"
 layout="details"
 +++

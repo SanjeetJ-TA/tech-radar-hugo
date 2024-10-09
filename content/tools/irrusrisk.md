@@ -1,8 +1,8 @@
 +++
-name= "Java"
-image= "/images/languages-frameworks/java.png"
-category= "Languages-Frameworks"
-ring= "Tolerate"
+name= "Irrus Risk"
+image= "/images/tools/irrusrisk.png"
+category= "Tools"
+ring= "Migrate"
 type="post"
 layout="details"
 +++
