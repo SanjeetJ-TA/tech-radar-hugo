@@ -1,9 +1,8 @@
 +++
-+++
-name= "Jenkins"
-image= "/images/platforms/jenkins.png"
-category= "Platforms"
-ring= "Migrate"
+name= "Go"
+image= "/images/languages-frameworks/go.png"
+category= "Languages-Frameworks"
+ring= "Tolerate"
 type="post"
 layout="details"
 +++

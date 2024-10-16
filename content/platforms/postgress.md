@@ -1,9 +1,9 @@
 +++
 +++
-name= "Jenkins"
-image= "/images/platforms/jenkins.png"
+name= "Postgress"
+image= "/images/platforms/postgress.png"
 category= "Platforms"
-ring= "Migrate"
+ring= "Invest"
 type="post"
 layout="details"
 +++

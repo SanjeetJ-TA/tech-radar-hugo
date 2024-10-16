@@ -1,7 +1,7 @@
 +++
 +++
-name= "Jenkins"
-image= "/images/platforms/jenkins.png"
+name= "SQL Server"
+image= "/images/platforms/sqlserver.png"
 category= "Platforms"
 ring= "Migrate"
 type="post"

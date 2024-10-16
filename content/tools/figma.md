@@ -1,9 +1,8 @@
 +++
-+++
-name= "Jenkins"
-image= "/images/platforms/jenkins.png"
-category= "Platforms"
-ring= "Migrate"
+name= "Figma"
+image= "/images/tools/figma.png"
+category= "Tools"
+ring= "Invest"
 type="post"
 layout="details"
 +++
